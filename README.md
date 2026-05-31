@@ -5,19 +5,16 @@
 <p>At the moment, I am only making assets for my own projects.</p>
 
 <details>
+<summary>Software I Use</summary>
   
-<summary>Development Software</summary>
+<h2> Development Software </h2>
   
 | Languages | IDEs | Engines |
 |:---:|:---:|:---:|
 | Java | IntelleJ IDEA | Unity |
-| Python | Visual Studio Code | Ren'Py |
+| Python | Visual Studio Code | Godot |
 
-</details>
-
-<details>
-  
-<summary>Art and Design Software</summary>
+<h2> Art and Design Software </h2>
   
 | 3D Modeling | Illustration |
 |:---:|:---:|
@@ -25,6 +22,5 @@
 | Blender | Krita |
 | Blockbench | Adobe Photoshop |
 | ZBrush | Libresprite |
-
 
 </details>
