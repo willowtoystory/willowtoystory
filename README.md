@@ -12,7 +12,7 @@
 | Languages | IDEs | Engines |
 |:---:|:---:|:---:|
 | Java | IntelleJ IDEA | Unity |
-| Python | Visual Studio Code | Godot |
+| Python | Visual Studio Code | RPG Maker 2003 |
 
 <h2> Art and Design Software </h2>
   
