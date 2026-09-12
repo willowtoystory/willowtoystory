@@ -7,20 +7,11 @@
 <details>
 <summary>Software I Use</summary>
   
-<h2> Development Software </h2>
-  
-| Languages | IDEs | Engines |
+| 3D Modeling | Illustration | Game Engines |
 |:---:|:---:|:---:|
-| Java | IntelleJ IDEA | Unity |
-| Python | Visual Studio Code | RPG Maker 2003 |
-
-<h2> Art and Design Software </h2>
-  
-| 3D Modeling | Illustration |
-|:---:|:---:|
-| Autodesk Maya | CLIP STUDIO PAINT |
-| Blender | Krita |
-| Blockbench | Adobe Photoshop |
-| ZBrush | Libresprite |
+| Autodesk Maya | CLIP STUDIO PAINT | Unity |
+| Blender | Krita | RPG Maker 2003 |
+| - | Adobe Photoshop | - |
+| - | Libresprite | - |
 
 </details>
