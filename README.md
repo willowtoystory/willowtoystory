@@ -1,4 +1,4 @@
-<summary>Software I Use</summary>
+Software I Use
   
 | Illustration | Game Engines |
 |:---:|:---:|
@@ -6,4 +6,3 @@
 | Krita | RPG Maker 2003 |
 | Libresprite | - |
 
-</details>
